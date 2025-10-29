@@ -78,7 +78,7 @@ Explore how I built an intelligent platform that transforms the way developers i
 ## 🌐 Connect with Me!
 - 📫 Email: [mustafa.tahir0427@gmail.com](mailto:mustafa.tahir0427@gmail.com)  
 - 💼 LinkedIn: [Mustafa Tahir](https://www.linkedin.com/in/mustafatahir09)  
-- 🌐 Portfolio: [mustafatahir.vercel.app](https://mustafatahir.vercel.app)
+- 🌐 Portfolio: [mustafatahir.vercel.app](https://www.mustafatahir.vercel.app)
 
 ---
 
@@ -106,10 +106,6 @@ Explore how I built an intelligent platform that transforms the way developers i
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mustafatahir.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.tahir0427@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Mustafa-Tahir0&color=blueviolet&style=flat-square)
 
 </div>
-
----
-
-*"Code is poetry written in logic. My goal is to make that poetry accessible, secure, and impactful for everyone."*
